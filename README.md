@@ -15,7 +15,7 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
 
 
-#Getting started on virtual enviroment#
+# Getting started on virtual enviroment
 pip install --upgrade distro-info
 pip3 install --upgrade pip==23.2.1
 pip install virtualenv
