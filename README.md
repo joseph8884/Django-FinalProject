@@ -16,8 +16,8 @@ For your reference, we have prepared the ER diagram design for the new assesemen
 
 
 # Getting started on virtual enviroment
-pip install --upgrade distro-info
-pip3 install --upgrade pip==23.2.1
-pip install virtualenv
-virtualenv djangoenv
-source djangoenv/bin/activate
+- pip install --upgrade distro-info
+- pip3 install --upgrade pip==23.2.1
+- pip install virtualenv
+- virtualenv djangoenv
+- source djangoenv/bin/activate
